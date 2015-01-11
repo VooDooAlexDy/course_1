@@ -1,0 +1,9 @@
+Name:Alex
+E-mail:
+Mesaj:asdasdasdasdasd
+IP:127.0.0.1
+*-----------------------------------*
+Name:asd
+E-mail:
+Mesaj:asdasdasd
+IP:127.0.0.1*-----------------------------------*
